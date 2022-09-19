@@ -1,6 +1,4 @@
-# ProfessoraElisaPC-Projetos-1B
-
-## Turma: 1ºB
+## Projetos-1B
 
 Professora Elisa
 
